@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 sudo apt install zsh wget git fonts-powerline -y
 zenity --info --title=Warning --text="We'll now install 'Oh My Zshell'.\n\nIMPORTANT: Once the installation is finished please DO NOT close the terminal. Type 'exit', press 'Enter', and then you may close it." --width=600 --height=120
